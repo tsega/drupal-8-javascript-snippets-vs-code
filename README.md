@@ -62,6 +62,10 @@ These snippets are only made available in files with a `.js` extension.
 
 ## Release Notes
 
+### 0.0.2
+
+Make name consistent with related twig module
+
 ### 0.0.1
 
 Initial release

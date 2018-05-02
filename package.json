@@ -1,8 +1,8 @@
 {
     "name": "drupal-8-javascript-snippets",
-    "displayName": "Drupal 8 JavaScript snippets",
+    "displayName": "Drupal 8 JavaScript Snippets",
     "description": "Useful Javascript snippets to use with Drupal 8.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "tsega",
     "icon": "images/drupal_8_logo.png",
     "engines": {
