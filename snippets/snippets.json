@@ -18,5 +18,18 @@
 			"};"
 		],
 		"description": "This inserts a Drupal 8 JS behavior."
+	},
+	"Drupal 8 jQuery Wrapper + Behavior": {
+		"prefix": "jqw+bhv",
+		"body": [
+			"(function ($, Drupal) {",
+			"\tDrupal.behaviors.${1:behaviorName} = {",
+			"\t\tattach: function (${2:context}, ${3:settings}) {",
+			"\t\t\t$0",
+			"\t\t}",
+			"\t};",
+			"}(jQuery, Drupal));"
+		],
+		"description": "This wrapper makes the $ jQuery short code avialable for code inside it & inserts a Drupal 8 JS behavior."
 	}
 }
